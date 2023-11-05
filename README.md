@@ -1,1 +1,1 @@
-# HackUTDX
+# TerraSync HackUTD X project
